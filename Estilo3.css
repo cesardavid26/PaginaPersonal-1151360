@@ -1,0 +1,40 @@
+fieldset {
+    display: block;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-top: 0.35em;
+    padding-bottom: 0.625em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    border: 2px groove (internal value);
+}
+nav ul{
+	padding:0;
+}
+nav ul li{
+	display: inline;
+}
+nav ul li a{
+	font-family: Arial;
+	font-size: 20px;
+	text-decoration: none;
+	float: right;
+	padding: 20px;
+	background-color: #2175bc;
+	color: #fff;
+}
+nav ul li a:hover{
+	background-color: #55a0e0;
+	
+}
+li{
+	background-color: #c64f4d;
+}
+
+p{
+	background-color: #c64f4d;
+}
+footer{
+	font-size: 20px;
+	float: right;
+}
